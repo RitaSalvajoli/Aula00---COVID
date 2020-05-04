@@ -1,0 +1,36 @@
+AULA 02:
+
+Você sabe a diferença entre Cliente x Servidor para Internet?
+	No momento que você utiliza um serviço, você é o cliente. Exemplo: Navegador. 	Quando se clica em um link, você será redirecionado para determinado servidor, o 	qual retém os aqruivos/dados desejados, quando você os solicita, uma cópia é 	gerada e mostrada ao cliente.
+Para que serve HTML, CSS e JS?
+	São ferramentas visualizadas pelo Cliente, as quais compõem o Conteúdo, o design e 	a interação de determinado site ou aplicação.
+Citar 4 sites que utilizam JS:
+	Google, Youtube, LinkedIn e Netflix.
+JavaScript e Java são a mesma coisa?
+	Não, possuem apenas similaridade entre os nomes devido ao modismo da palavra Java 	da época, uma jogada de Marketing.
+Linha do tempo:
+1970 (O começo da internet) - DARPA (Criou uma rede para proteção de dados Arpanet) ----> 1993 (Criação da linguagem HTML, o protocolo Http, e a fundação WWW, navergador Mosaic) ----> 1994(Fundação da Empresa e do Navegador Netscape) -----> 1995 (Surgimento do Mocca - LiveScript- e do Java, o nome JavaScript veio simplesmente pelo modismo da palavra Java, na época) -----> 1997 (Padronização do JavaScript pelo ECMA) ----> 2002 (Netscap perde para o Internet Explorer. Surgimento da fundação Mozilla, posteriormente, tornou-se o Firefox) ----> 2008 (Surgimento do Google Chrome, sendo, hoje, o navegador mais famoso do mundo) ----> 2009 (Sugimento do V8, de código aberto.) ----> 2010 (Surgimento do Node.js - uma máquina que roda JS fora do navegador.)
+
+Evolução do ECMAScript:
+	Versão 1.0 - 1997
+	Versão 2.0 - 1998
+	Versão 3.0 - 1999 (Com tratamento de erros)
+	Versão ES5 - 2009
+	Versão ES6 - 2015
+	Versão 2016/2017/2018.
+
+Tecnologias:
+	JQuery
+	Agular
+	React
+	Vue
+	Electrón
+	Ionic
+	Cordova
+
+Games:
+	Phaser
+	PixieJS
+	Impact
+	Melon.js
+	CraftJS

@@ -1,0 +1,24 @@
+AULA 01:
+
+O que o JavaScript faz?
+	Baicamente, tudo.
+Para quem é esse curso?
+	Para todos e qualquer nível de experiência.
+
+Para aprender a programar precisa-se de dedicação.
+
+CLIENTE X SERVIDOR
+No momento que você utiliza um serviço, você é o cliente. Exemplo: Navegador. Quando se clica em um link, você será redirecionado para determinado servidor, o qual retém os aqruivos/dados desejados, quando você os solicita, uma cópia é gerada e mostrada ao cliente.
+JavaScript é uma tecnologia Cilente X Serviidor.
+
+Conteúdo -----> Design ------> Interação
+HTML ---------> CSS ---------> JS
+Essas ferramentas compõem o Cliente.
+
+Quem utiliza JS?
+	Google
+	Youtube
+	LinkedIn
+	Netflix
+	Facebook
+//Imagens demonstativas da aula.

@@ -1,0 +1,12 @@
+AULA 04:
+
+Que livros/documentos foram recomendados?
+	"JavaScript - O Guia Definitivo" e "JavaScript - Guia do Programador".
+Para aprender JS, precisamos saber Inglês?
+	Não é obrigatório, há vários materiais em português.
+Que dicas nós demos para quem quer estudar?
+	Assistir aos vídeos, juntamente a colocar a mão na massa, ler conteúdos, anotações, interações sociais e penar em projetos próprios.
+Quais programas que instalamos no computador?
+	Google Chrome, Visual Studio Code e o Node.
+
+

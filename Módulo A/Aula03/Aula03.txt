@@ -1,0 +1,19 @@
+AULA 03:
+
+Sabe que empresa criou o JavaScript?
+	Foi criado por Brendan Eich a serviço da Netscape.
+Java e JavaScript possuem alguma relação?
+	Apenas o nome e a base em linguagem C.
+O que ECMAScript tem a ver com JS?
+	O ECMAScript foi responsável pela padronização da linguagem.
+Sabia que o programa Whatsapp desktop é criado em JS?
+	Sim.
+Bibliografia:
+"JavaScript - O Guia Definitivo"
+"JavaScript - Guia do Programador"
+
+Software:
+	Google Chorme
+	Visual Studio Code
+
+/*Instalação Já realizada.*/
