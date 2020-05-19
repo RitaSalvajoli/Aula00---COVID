@@ -1,0 +1,26 @@
+Já sabe organizar suas pastas com VScode?
+O Node.js está instalado no seu computador?
+Sabe diferenciar HTML5, CSS3 e JS dentro de um código?
+Sabe disparra alertas, confirmações e perguntas?
+
+Comentários são necessários. //- Uma única Linha /* */-Um bloco inteiro
+Comentários para explicar seus códigos.
+
+Variáveis alocam dados.
+
+Variáveis não podem começar com números, não podem conter espaços, não podem ser palavras reservadas.
+
+Maiúsculas e minúsculas fazem diferença, tentar utilizar nomes coerentes, evite se tornar um programador alfabeto ou um contador.
+Tipos primitivos primordiais:
+	Number
+		Infinity
+		NaN
+	String
+	Booleaan
+	Null
+	Undefined
+	Object
+		Array
+	Function
+typeof
+

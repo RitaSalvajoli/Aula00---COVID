@@ -1,0 +1,32 @@
+Para que serve o % no Js?
+6 + 4 / 2 é igual a 5 ou a 8?
+Se uma variável n está valendo 10 e executamos um n+= 5, qual será seu novo valor? 
+Para que servem o ++ e o --?
+
+Operadores relacionais:
+5 > 2 - Maior		true
+7 < 4 - Menor		false
+8 >=8 - Maior igual	true
+9 <=7 - Menor igual	false
+5 ==5 - Igualdade	true
+4 !=4 - Diferente de	false
+
+Operadores de Identidade
+
+5 == 5		true
+5 == '5'	true (O sinal de igualdade não testa o tipo da variável)
+5 === '5'	false (Nesse caso, leva-se em consideração o valor e o tipo)
+
+Operadores Lógicos
+
+!	negação (não) 	true or false
+&&	conjunção (e)	true and true = true; para qualquer outra combinação é false
+||	dijunção (ou)	para qualquer true a resposta será true;
+- ! - && - ||
+
+OPERADORES TERNÁRIOS 
+
+?
+:
+
+teste	?	true	:	false

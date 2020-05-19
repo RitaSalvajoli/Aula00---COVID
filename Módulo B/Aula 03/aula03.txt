@@ -1,0 +1,29 @@
+Como é possível guardar o valor digitado em um prompt() dentro de uma variável?
+A variável utiliza uma parte da memória para alocar esses dados.
+Como fazer com que um número digitado em um prompt() possa ser utilizado em cálculos?
+Convertendo com parseInt, parseFloat ou Number.
+Como transformar um texto todo em letras maiúsculas?
+s.toUpperCase()
+Como mostrar um número formatado como valor monetário?
+.toLocaleString('pt-BR', {style:'currency', currency:'BRL'})
+
+Operadores:
+	Aritméticos
+		5+2 = 7
+		5-2 = 3
+		5*2 = 10
+		5/2 = 2.5
+		5%2 = 1 (resto da divisão inteira)
+	       5**2 = 25 (potência)
+	Atribuição
+	Relacionais
+	Lógicos
+	Ternários
+
+Ordem de precedência: () - ** - * / % - + -
+
+Incremento:
+
+var x = 5
+ x= x+1		x ++
+ x= x-1		x --

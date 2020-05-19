@@ -1,0 +1,3 @@
+O que é uma variável?
+Como declarar uma variável numérica, inteira ou real, usando JS?
+O que significa colocar o valor null dentro de uma variável?
