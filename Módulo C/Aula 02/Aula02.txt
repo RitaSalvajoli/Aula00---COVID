@@ -1,0 +1,16 @@
+O que significa a sigla DOM?
+Document Object Model, é um conjunto de objetos contidos no navegador.
+Sabe montar a árvore DOM de um website simples?
+Sim.
+O que são os elementos Parent e os elementos Child em uma árvore DOM?
+Elementos Parents são aqueles que estão no topo como Window é parent de document, pois document está abaixo de window.
+Quais são os cinco principais métodos de selecionar elementos DOM dentro do js?
+Tag, Id, Class, Name, Selector.
+
+Funções
+
+	function ação(parâmetros){
+
+	
+	
+	}

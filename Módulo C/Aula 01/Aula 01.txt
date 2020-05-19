@@ -1,0 +1,33 @@
+DOM (Document Object Model)
+
+Qual é a diferença entre usar =, == e === em códigos Js?
+=- Atribuição;
+== - Igualdade;
+=== - Igualdade levando-se em consideração o tipo da variável.
+Em uma mesma expressão, temos os operadores || e &&. Quem eu resolvo primeiro?
+&&
+Sabe usar o operador ternário para colocar um entre dois valores em uma variável?
+
+DOM -É um modelo de objetos para seu documento, é um conjunto de objetos que rodam dentro do seu navegador.
+ÁRVORE DOM:
+	window
+		location	document	history
+				html
+					head
+					   meta
+					   title
+					body
+					   h1
+					   p
+					   p
+					     strong
+					   div
+SELECIONANDO
+	Por Tag
+	  getElementsByTagName()
+	Por Id
+	  getElementsById()
+	Por name
+	  getElementsByName()
+	Por seletor
+	  querySelector() querySelectorAll()
